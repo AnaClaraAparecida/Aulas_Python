@@ -1,4 +1,5 @@
 # Aulas_Python
 
-![gif hello kity](https://github.com/user-attachments/assets/714ea042-6763-4312-84b8-3d13e7593554)
+![gif pikachu](https://github.com/user-attachments/assets/1d038fca-4201-4a1d-a198-24133d17aa04)
+
 
